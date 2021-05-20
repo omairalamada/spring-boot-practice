@@ -18,7 +18,7 @@ public class FriendsController {
 
     public FriendsController() {
         friends = new ArrayList<>();
-        friends.add(new Friend("omair", "Omair Mangondaya"));
+        friends.add(new Friend("omair", "Omair Cali"));
         friends.add(new Friend("mags", "Abdulrahman Magoncar"));
         friends.add(new Friend("mats", "Abdul Matin Maruhom"));
         friends.add(new Friend("abs", "Mosaab Talib"));
